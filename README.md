@@ -2,7 +2,7 @@
 This is a simple ImageJ plugin to simulate blur and noise from fluorescence imaging, and also the impact of adjusting several microscope parameters.
 
 ### Download
-The plugin can be downloaded [here]([fluorescence-simulator-1.0.0.jar](https://github.com/petebankhead/fluorescence-simulator/releases/download/1.0.0/fluorescence_simulator-1.0.0.jar).
+The plugin can be downloaded [here](https://github.com/petebankhead/fluorescence-simulator/releases/download/1.0.0/fluorescence_simulator-1.0.0.jar).
 
 ### Installation
 First you will need to install either [ImageJ](https://imagej.nih.gov/ij/) for [Fiji](www.fiji.sc).
