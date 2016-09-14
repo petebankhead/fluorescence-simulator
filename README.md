@@ -12,7 +12,16 @@ In summary, this means simply put the Jar file (fluorescence-simulator-1.0.0.jar
 ### Usage
 To run the plugin from within ImageJ, simply open a (single-channel, grayscale) image and run the *Plugins &rarr; Simulation &rarr; Fluorescence Imaging Simulator* command.
 
-For teaching purposes, it can be helpful to generate a histogram and/or profile plot on the image prior to running the plugin, and set these to 'Live' mode.  Then running the plugin with 'Preview' turned on enables interactive exploration of different parameters.
+A rather large dialog box then opens, giving a number of parameters to change.  These are intended to help give a feeling for how varying parameters during fluorescence microscopy image acquisition can impact the image quality.
+
+For learning purposes, it can be helpful to generate a histogram and/or profile plot on the image prior to running the plugin, and set these to 'Live' mode.  Then running the plugin with 'Preview' turned on enables interactive exploration when trying different parameters.
+
+#### Running the plugin
+![Running the plugin](images/Fluorescence_simulator_orig.jpg)
+
+#### Running the plugin with *Preview* selected
+![Running the plugin with preview](images/Fluorescence_simulator_previewing.jpg)
+
 
 
 ### Further information
