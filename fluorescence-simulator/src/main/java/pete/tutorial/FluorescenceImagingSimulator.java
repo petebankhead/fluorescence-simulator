@@ -1,4 +1,4 @@
-package pete.tutorial.fluorescence_simulator;
+package pete.tutorial;
 
 /*
  * Copyright 2016 Peter Bankhead
@@ -47,7 +47,7 @@ import ij.measure.*;
  * @author Pete Bankhead
  * 
  */
-public class Fluorescence_Imaging_Simulator implements ExtendedPlugInFilter, DialogListener {
+public class FluorescenceImagingSimulator implements ExtendedPlugInFilter, DialogListener {
 
 	protected ImagePlus imp;
 	protected Roi roi;

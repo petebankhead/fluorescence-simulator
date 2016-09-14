@@ -3,11 +3,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>pete.tutorial</groupId>
-	<artifactId>fluorescence-simulator</artifactId>
+	<artifactId>fluorescence_simulator</artifactId>
 	<version>1.0.0</version>
 	<packaging>jar</packaging>
 
-	<name>fluorescence-simulator</name>
+	<name>Fluorescence Imaging Simulator</name>
 	<url>https://github.com/petebankhead/fluorescence-simulator</url>
 
 	<properties>
